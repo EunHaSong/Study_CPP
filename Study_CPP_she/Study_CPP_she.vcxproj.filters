@@ -36,5 +36,17 @@
     <ClCompile Include="_1_2_2_Problem.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_1_3_1_DefaultValue1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_1_3_2_DefaultValue2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_1_3_3_DefaultValue3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_1_4_1_InlineFunc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
