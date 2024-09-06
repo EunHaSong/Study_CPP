@@ -30,5 +30,11 @@
     <ClCompile Include="_1_1_5_Problem.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_1_2_1_FunctionOverloading.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_1_2_2_Problem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
