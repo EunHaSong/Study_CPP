@@ -84,5 +84,14 @@
     <ClCompile Include="_2_2_2_DataTypeBool.cpp">
       <Filter>소스 파일\_2</Filter>
     </ClCompile>
+    <ClCompile Include="_2_3_1_Reference.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_3_2_RefArrElem.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_3_3_RefPtr.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
