@@ -93,5 +93,23 @@
     <ClCompile Include="_2_3_3_RefPtr.cpp">
       <Filter>소스 파일\_2</Filter>
     </ClCompile>
+    <ClCompile Include="_2_4_1_RefSwap.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_4_2_Problem1.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_4_3_RefReturnOne.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_4_4_RefReturnTwo.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_4_5_RefReturnThree.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_4_6_Problem2.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
