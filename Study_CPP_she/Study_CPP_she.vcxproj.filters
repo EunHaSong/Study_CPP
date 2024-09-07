@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\_1">
       <UniqueIdentifier>{9c37d7a3-b9c1-4a71-941d-5c10c7d045b3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\_2">
+      <UniqueIdentifier>{2866c12d-ab1f-41c7-99db-8f6bb85b7537}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="_1_1_2_SimpleAdder.cpp">
@@ -71,6 +74,15 @@
     </ClCompile>
     <ClCompile Include="_1_5_7_UsingAlias.cpp">
       <Filter>소스 파일\_1</Filter>
+    </ClCompile>
+    <ClCompile Include="_1_OOP.cpp">
+      <Filter>소스 파일\_1</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_2_1_TrueAndFalse.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_2_2_DataTypeBool.cpp">
+      <Filter>소스 파일\_2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
