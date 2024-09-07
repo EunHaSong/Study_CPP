@@ -111,5 +111,20 @@
     <ClCompile Include="_2_4_6_Problem2.cpp">
       <Filter>소스 파일\_2</Filter>
     </ClCompile>
+    <ClCompile Include="_2_5_1_MemMalFree.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_5_2_NewDelete.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_5_3_NewObject.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_5_4_Problem2.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_6_2_Question.cpp">
+      <Filter>소스 파일\_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
